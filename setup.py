@@ -16,7 +16,7 @@ long_description = "\n\n".join(
 )
 
 setup(
-    name='croniter',
+    name='croniter-hpx',
     version='0.3.12.dev0',
     py_modules=['croniter', ],
     description=(
